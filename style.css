@@ -106,8 +106,8 @@ section {
   .liquid-shape {
     position: absolute;
     display: flex;
-    top: 02rem;
-    width: 30vw;
+    top: 01rem;
+    width: 28vw;
     z-index: -1;
    }
   .liquid-shape:nth-child(2){
