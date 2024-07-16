@@ -106,7 +106,7 @@ section {
   .liquid-shape {
     position: absolute;
     display: flex;
-    top: 01rem;
+    top: 04rem;
     width: 28vw;
     z-index: -1;
    }
