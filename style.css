@@ -107,7 +107,8 @@ section {
     position: absolute;
     display: flex;
     top: 04rem;
-    width: 28vw;
+    left: 08rem;
+    width: 30vw;
     z-index: -1;
    }
   .liquid-shape:nth-child(2){
