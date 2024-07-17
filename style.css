@@ -107,6 +107,7 @@ section {
     position: absolute;
     display: flex;
     top: 04rem;
+    right:04rem;
     width: 30vw;
     z-index: -1;
    }
