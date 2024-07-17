@@ -87,6 +87,7 @@ section {
 }
     .home-img img {
       width: 35vw;
+      right:05px;
       animation: floatImage 4s ease-in-out infinite;
       position: relative;
     }
