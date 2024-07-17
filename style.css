@@ -87,7 +87,6 @@ section {
 }
     .home-img img {
       width: 25vw;
-      top:04rem;
       animation: floatImage 4s ease-in-out infinite;
       position: relative;
     }
@@ -107,7 +106,7 @@ section {
   .liquid-shape {
     position: absolute;
     display: flex;
-    
+    top:04rem;
     width: 30vw;
     z-index: -1;
    }
