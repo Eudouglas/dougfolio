@@ -86,7 +86,7 @@ section {
   align-items: center;
 }
     .home-img img {
-      width: 25vw;
+      width: 30vw;
       animation: floatImage 4s ease-in-out infinite;
       position: relative;
     }
@@ -106,7 +106,8 @@ section {
   .liquid-shape {
     position: absolute;
     display: flex;
-    top:15rem;
+    top: -12px;
+    left: 12rem;
     width: 30vw;
     z-index: -1;
    }
@@ -1134,6 +1135,8 @@ section {
 
   .home-img img {
     width: 60vw;
+    right:12vw;
+    left: 1vw;
     margin-top: 4rem;
   }
 
@@ -1141,6 +1144,7 @@ section {
     width: 70vw;
     margin-top: 2rem;
     right: 0.1rem;
+    left: 0;
   }
 
   .sobre {
