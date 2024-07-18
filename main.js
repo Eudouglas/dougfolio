@@ -82,3 +82,4 @@ circles.forEach(elem=>{
         ponteiroMarked[i].classList.add('marked')
     }
 })
+
